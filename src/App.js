@@ -58,7 +58,7 @@ function Map() {
       mapboxApiAccessToken="pk.eyJ1IjoiZHVzdGlud2lzaCIsImEiOiJja3Z1aW1zNGEwZ2V4MnVvNnV2bWZkcDRoIn0.nfuUU7-FKU6NIGsE8n_7Rg"
       width={window.innerWidth}
       height={window.innerHeight}
-      appName={"nExpansion"}
+      appName={"Nexpansion"}
     />
   );
 }
